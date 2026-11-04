@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160" role="img" aria-label="链叔：蓝色积木身体、圆眼镜、链节胡子">
+  <ellipse cx="60" cy="149" rx="34" ry="6" fill="#e3d9c6" opacity=".75"/>
+  <g stroke="#23212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M45 132 L43 146 L56 146 L58 132 Z" fill="#25324d"/>
+    <path d="M62 132 L64 146 L77 146 L75 132 Z" fill="#25324d"/>
+    <path d="M43 145 Q37 150 44 152 L58 152 L55 146 Z" fill="#f4f1e8"/>
+    <path d="M65 146 L62 152 L76 152 Q83 150 77 145 Z" fill="#f4f1e8"/>
+    <path d="M31 90 Q22 100 24 117 Q26 126 33 122 Q30 107 38 98 Z" fill="#3b8de0"/>
+    <path d="M89 90 Q98 100 96 117 Q94 126 87 122 Q90 107 82 98 Z" fill="#3b8de0"/>
+    <path d="M30 88 L60 76 L90 88 V133 Q90 141 82 141 H38 Q30 141 30 133 Z" fill="#4aa3ff"/>
+    <path d="M30 88 L60 76 L90 88 L60 100 Z" fill="#7fc0ff"/>
+    <path d="M38 96 L60 103 L82 96 L82 132 L60 138 L38 132 Z" fill="#2f8ae6" stroke-width="2.5"/>
+    <path d="M36 34 L60 24 L84 34 L84 68 L60 78 L36 68 Z" fill="#4aa3ff"/>
+    <path d="M36 34 L60 44 L84 34 L60 24 Z" fill="#8cc8ff"/>
+    <path d="M60 44 V78" fill="none" stroke="#2f8ae6" stroke-width="2.5"/>
+    <path d="M36 34 L60 44" fill="none" stroke="#8cc8ff" stroke-width="2.5"/>
+    <circle cx="48" cy="55" r="8.5" fill="#fffdf5" stroke-width="2.5"/>
+    <circle cx="72" cy="55" r="8.5" fill="#fffdf5" stroke-width="2.5"/>
+    <path d="M56.5 55 L63.5 55" fill="none" stroke-width="2.5"/>
+    <circle cx="49" cy="56" r="3" fill="#23212b" stroke="none"/>
+    <circle cx="71" cy="56" r="3" fill="#23212b" stroke="none"/>
+    <path d="M42 45 Q48 41 54 44" fill="none" stroke-width="2"/>
+    <path d="M66 44 Q72 41 78 45" fill="none" stroke-width="2"/>
+    <path d="M65 65 Q72 61 79 65" fill="none" stroke-width="2"/>
+    <path d="M54 66 Q60 69 66 66" fill="none" stroke-width="2.5"/>
+    <ellipse cx="45" cy="83" rx="8" ry="5" fill="none" stroke="#f4f1e8" stroke-width="3"/>
+    <ellipse cx="52" cy="84" rx="8" ry="5" fill="none" stroke="#f4f1e8" stroke-width="3"/>
+    <ellipse cx="60" cy="85" rx="8" ry="5" fill="none" stroke="#f4f1e8" stroke-width="3"/>
+    <ellipse cx="68" cy="84" rx="8" ry="5" fill="none" stroke="#f4f1e8" stroke-width="3"/>
+    <ellipse cx="75" cy="83" rx="8" ry="5" fill="none" stroke="#f4f1e8" stroke-width="3"/>
+    <path d="M60 112 L66 120 L60 128 L54 120 Z" fill="#ffd75e" stroke-width="2"/>
+  </g>
+</svg>

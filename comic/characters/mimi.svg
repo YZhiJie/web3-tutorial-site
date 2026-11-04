@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160" role="img" aria-label="米米：穿黄色连帽衫、戴圆框眼镜的新手主角">
+  <ellipse cx="60" cy="149" rx="33" ry="6" fill="#e3d9c6" opacity=".75"/>
+  <g stroke="#23212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M44 126 L41 146 L55 146 L59 127 Z" fill="#33405c"/>
+    <path d="M61 127 L65 146 L79 146 L76 126 Z" fill="#33405c"/>
+    <path d="M41 145 Q35 150 42 152 L58 152 L55 146 Z" fill="#f4f1e8"/>
+    <path d="M65 146 L62 152 L78 152 Q85 150 79 145 Z" fill="#f4f1e8"/>
+    <path d="M34 98 Q26 108 29 138 Q44 149 60 147 Q76 149 91 138 Q94 108 86 98 Q73 87 60 87 Q47 87 34 98 Z" fill="#ffcf5c"/>
+    <path d="M33 100 Q21 114 25 132 Q28 137 33 133 Q29 119 39 108 Z" fill="#f4bd3f"/>
+    <path d="M87 100 Q99 114 95 132 Q92 137 87 133 Q91 119 81 108 Z" fill="#f4bd3f"/>
+    <path d="M32 98 Q60 114 88 98 Q82 86 60 86 Q38 86 32 98 Z" fill="#f0b52e"/>
+    <path d="M36 99 Q60 110 84 99" fill="none" stroke="#a97600" stroke-width="2.5"/>
+    <path d="M50 112 Q60 122 70 112" fill="none" stroke="#a97600" stroke-width="2.5"/>
+    <circle cx="60" cy="58" r="27" fill="#ffe0c2"/>
+    <path d="M31 56 Q27 25 60 23 Q93 25 89 56 Q82 43 75 41 Q71 51 60 49 Q49 51 45 41 Q38 43 31 56 Z" fill="#2d2a35"/>
+    <path d="M30 55 Q25 71 31 86 Q37 79 35 60 Z" fill="#2d2a35"/>
+    <path d="M90 55 Q95 71 89 86 Q83 79 85 60 Z" fill="#2d2a35"/>
+    <circle cx="49" cy="59" r="9" fill="#fffdf5" stroke-width="2.5"/>
+    <circle cx="71" cy="59" r="9" fill="#fffdf5" stroke-width="2.5"/>
+    <path d="M58 59 L62 59" fill="none" stroke-width="2.5"/>
+    <path d="M40 59 L45 59" fill="none" stroke-width="2.5"/>
+    <path d="M75 59 L80 59" fill="none" stroke-width="2.5"/>
+    <circle cx="50" cy="60" r="3.2" fill="#23212b" stroke="none"/>
+    <circle cx="70" cy="60" r="3.2" fill="#23212b" stroke="none"/>
+    <circle cx="51" cy="59" r="1" fill="#fff" stroke="none"/>
+    <circle cx="71" cy="59" r="1" fill="#fff" stroke="none"/>
+    <path d="M43 46 Q49 43 55 46" fill="none" stroke-width="2"/>
+    <path d="M65 46 Q71 43 77 46" fill="none" stroke-width="2"/>
+    <path d="M55 75 Q60 80 65 75" fill="none" stroke-width="2.5"/>
+    <circle cx="42" cy="71" r="4" fill="#f7b3a7" opacity=".65" stroke="none"/>
+    <circle cx="78" cy="71" r="4" fill="#f7b3a7" opacity=".65" stroke="none"/>
+    <path d="M88 25 L93 33 L88 33 L92 42 L82 32 L87 32 Z" fill="#58a6ff" stroke-width="2.5"/>
+  </g>
+</svg>

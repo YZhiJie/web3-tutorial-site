@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="钓钓的头像">
+  <g stroke="#23212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M14 74 Q10 38 22 22 Q30 8 40 8 Q50 8 58 22 Q70 38 66 74 Z" fill="#3a3550"/>
+    <path d="M20 66 Q20 30 40 26 Q60 30 60 66 Q50 74 40 74 Q30 74 20 66 Z" fill="#171522"/>
+    <path d="M27 46 Q33 42 37 46" fill="none" stroke="#ff5c5c" stroke-width="3"/>
+    <path d="M43 46 Q49 42 53 46" fill="none" stroke="#ff5c5c" stroke-width="3"/>
+    <path d="M31 57 Q40 64 49 57" fill="none" stroke="#8b5cf6" stroke-width="2.5"/>
+  </g>
+</svg>

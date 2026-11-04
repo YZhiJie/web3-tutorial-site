@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" width="120" height="160" role="img" aria-label="钱包仔开心：眯眼微笑">
+  <ellipse cx="60" cy="149" rx="31" ry="6" fill="#e3d9c6" opacity=".75"/>
+  <g stroke="#23212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M47 132 L45 146 L57 146 L58 133 Z" fill="#5b45b8"/>
+    <path d="M62 133 L63 146 L75 146 L73 132 Z" fill="#5b45b8"/>
+    <path d="M45 145 Q39 150 46 152 L59 152 L56 146 Z" fill="#2d2a35"/>
+    <path d="M66 146 L63 152 L76 152 Q83 150 77 145 Z" fill="#2d2a35"/>
+    <path d="M30 75 Q24 94 26 112 Q28 122 36 119 Q33 104 35 88 Z" fill="#8367ea"/>
+    <path d="M90 75 Q96 94 94 112 Q92 122 84 119 Q87 104 85 88 Z" fill="#8367ea"/>
+    <path d="M34 62 Q34 52 46 52 H74 Q90 52 90 64 V132 Q90 144 78 144 H42 Q30 144 30 132 V68 Q30 62 34 62 Z" fill="#9b7bff"/>
+    <path d="M34 66 Q34 56 46 56 H74 Q86 56 86 66 Q86 74 74 74 H34 Z" fill="#b6a0ff"/>
+    <path d="M38 58 Q50 48 62 58 Q74 48 86 58" fill="none" stroke="#5b45b8" stroke-width="2.5"/>
+    <rect x="49" y="48" width="22" height="7" rx="3.5" fill="#2d2a35" stroke-width="2.5"/>
+    <circle cx="60" cy="40" r="11" fill="#ffd75e"/>
+    <path d="M60 32 L66 40 L60 48 L54 40 Z" fill="#e6a900" stroke-width="2"/>
+    <path d="M43 95 Q49 87 55 95" fill="none" stroke-width="2.5"/>
+    <path d="M65 95 Q71 87 77 95" fill="none" stroke-width="2.5"/>
+    <path d="M42 82 Q49 78 56 82" fill="none" stroke-width="2"/>
+    <path d="M64 82 Q71 78 78 82" fill="none" stroke-width="2"/>
+    <path d="M52 109 Q60 118 68 109" fill="none" stroke-width="2.5"/>
+    <circle cx="39" cy="104" r="4" fill="#d8caff" opacity=".8" stroke="none"/>
+    <circle cx="81" cy="104" r="4" fill="#d8caff" opacity=".8" stroke="none"/>
+    <path d="M94 30 L96 36 L102 38 L96 40 L94 46 L92 40 L86 38 L92 36 Z" fill="#ffd75e" stroke-width="2"/>
+    <path d="M22 38 L23 43 L28 44 L23 45 L22 50 L21 45 L16 44 L21 43 Z" fill="#58a6ff" stroke-width="2"/>
+  </g>
+</svg>

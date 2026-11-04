@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80" role="img" aria-label="钱包仔的头像">
+  <g stroke="#23212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M14 22 Q14 12 26 12 H54 Q70 12 70 26 V60 Q70 70 58 70 H22 Q10 70 10 58 V26 Q10 22 14 22 Z" fill="#9b7bff"/>
+    <path d="M14 26 Q14 18 26 18 H54 Q64 18 64 26 Q64 33 54 33 H14 Z" fill="#b6a0ff"/>
+    <rect x="29" y="10" width="22" height="7" rx="3.5" fill="#2d2a35" stroke-width="2"/>
+    <circle cx="32" cy="49" r="10" fill="#fffdf5" stroke-width="2.5"/>
+    <circle cx="48" cy="49" r="10" fill="#fffdf5" stroke-width="2.5"/>
+    <circle cx="33" cy="50" r="3.5" fill="#23212b" stroke="none"/>
+    <circle cx="47" cy="50" r="3.5" fill="#23212b" stroke="none"/>
+    <path d="M35 62 Q40 66 45 62" fill="none" stroke-width="2.5"/>
+  </g>
+</svg>
